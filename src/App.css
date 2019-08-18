@@ -1,0 +1,10 @@
+.card {
+    align-items: left;
+    font-size: 15px;
+    color: black;
+  }
+  
+  .cardTitle {
+    align-items: left;
+    margin-left: 6px;
+  }
